@@ -18,7 +18,7 @@ header  {
     display: flex;
     justify-content: flex-start;
     background-color: var(--secondary-color);
-     font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 
 }
 header h1{
@@ -72,6 +72,7 @@ main{
     overflow: hidden;
     border-radius: 10px;
     cursor: pointer;
+     font-family: 'Noto Sans', sans-serif;
     
 }
 .movie img{
